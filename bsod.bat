@@ -38,7 +38,7 @@ exit /b
 
 
 :version
-echo v0.0.1
+echo v0.0.2
 exit /b
 
 :about
@@ -57,7 +57,7 @@ echo The problem seems to be caused by the following file: BSOD.BAT
 echo.
 echo PAGE_FAULT_IN_NONPAGED_AREA
 echo.
-echo If this is the first time you’ve seen this stop error screen,
+echo If this is the first time you've seen this stop error screen,
 echo restart your computer. If this screen appears again, follow
 echo these steps:
 echo.
@@ -76,7 +76,7 @@ echo.
 echo *** STOP: 0x00000050 (0xFD3094C2,0x00000001,0xFBFE7617,0x00000000)
 echo.
 echo.
-echo *** SPCMDCON.SYS – Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67c
+echo *** SPCMDCON.SYS - Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67c
 pause >nul
 exit
 
@@ -90,7 +90,7 @@ echo The problem seems to be caused by the following file: BSOD.BAT
 echo.
 echo PAGE_FAULT_IN_NONPAGED_AREA
 echo.
-echo If this is the first time you’ve seen this stop error screen,
+echo If this is the first time you've seen this stop error screen,
 echo restart your computer. If this screen appears again, follow
 echo these steps:
 echo.
@@ -109,7 +109,7 @@ echo.
 echo *** STOP: 0x00000050 (0xFD3094C2,0x00000001,0xFBFE7617,0x00000000)
 echo.
 echo.
-echo *** SPCMDCON.SYS – Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67c
+echo *** SPCMDCON.SYS - Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67c
 pause >nul
 exit
 
@@ -122,7 +122,7 @@ echo The problem seems to be caused by the following file: BSOD.BAT
 echo.
 echo PAGE_FAULT_IN_NONPAGED_AREA
 echo.
-echo If this is the first time you’ve seen this stop error screen,
+echo If this is the first time you've seen this stop error screen,
 echo restart your computer. If this screen appears again, follow
 echo these steps:
 echo.
@@ -141,6 +141,6 @@ echo.
 echo *** STOP: 0x00000050 (0xFD3094C2,0x00000001,0xFBFE7617,0x00000000)
 echo.
 echo.
-echo *** SPCMDCON.SYS – Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67c
+echo *** SPCMDCON.SYS - Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67c
 pause >nul
 exit
