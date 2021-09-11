@@ -4,7 +4,7 @@ Blue screen of death on a batch file
 
 # How to run?
 
-Just type "bsod" in bsod.
+Just type "bsod" in cmd.
 
 Or click on the batch file.
 
