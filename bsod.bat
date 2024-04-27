@@ -42,9 +42,8 @@ echo v0.0.2
 exit /b
 
 :about
-echo Created by Jacobw
-echo Github: https://github.com/Jacobwworkman
-echo Discord: https://discord.gg/EYt579b
+echo Created by GlitchyZorua
+echo Github: https://github.com/GlitchyZorua
 exit /b
 
 :crash
