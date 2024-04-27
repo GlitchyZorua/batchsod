@@ -8,7 +8,7 @@ Just type "`bsod`" in cmd.
 
 Or click on the batch file.
 
-or do "bsod -bsod" or "bsod /bsod"
+or do "`bsod -bsod`" or "`bsod /bsod`"
 
 # Arguments
 
