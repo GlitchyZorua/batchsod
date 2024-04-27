@@ -43,7 +43,7 @@ bsod -[optional argument]
     
 # How do I change the colors?
 
-## RSOD and -nocolor (black screen of death.)
+## RSOD and `-nocolor` (black screen of death.)
 By default, the color is blue.
 
 For red screen of death should be simple. 
